@@ -1,7 +1,7 @@
 # Hi! 👋  Welcome to my github profile!
 ## My name is Riquelme Santos
 
-My journey in the tech area started in 2021 during the school. I practiced educational robotic (with EV3 and NXT, from Lego Mindstorms) like a extracurricular activities, winning some local tournaments! However, I indeed started to invest my time in tech area this year to get a job that I would be happy with.
+My journey in the tech area started in 2021 during the school. I practiced educational robotic (with EV3 and NXT, from Lego Mindstorms) like an extracurricular activity, winning some local tournaments! However, I indeed started to invest my time in tech area this year to get a job that I would be happy with.
 
 Nowadays, I started do study Computer Science, on FIAP (Faculdade de Informática e Administração Paulista), and with that, I also studying some programming languages from the beggining, like Python and C. I'm also studying about Git and Github by Alura!
 
