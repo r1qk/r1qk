@@ -5,7 +5,7 @@ My journey in the tech area started in 2021 during the school. I practiced educa
 
 Nowadays, I started do study Computer Science, on FIAP (Faculdade de Informática e Administração Paulista), and with that, I also studying some programming languages from the beggining, like Python and C. I'm also studying about Git and Github by Alura!
 
-- 📚 I'm learning Python, C ang git.
+- 📚 I'm learning Python, C ang Git.
 - 🖥️ I'm studying Computer Science, on Fiap
 - 📩 My contact: riquelmesmatamoh@gmail.com
 
