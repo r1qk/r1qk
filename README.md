@@ -3,10 +3,12 @@
 
 My journey in the tech area started in 2021 during the school. I practiced educational robotic (with EV3 and NXT, from Lego Mindstorms) like an extracurricular activity, winning some local tournaments! However, I indeed started to invest my time in tech area this year to get a job that I would be happy with.
 
-Nowadays, I started do study Computer Science, on FIAP (Faculdade de Informática e Administração Paulista), and with that, I also studying some programming languages from the beggining, like Python and C. I'm also studying about Git and Github by Alura!
+Nowadays, I started do study Computer Science, on FIAP (Faculdade de Informática e Administração Paulista), and with that, I also studying some programming languages from the beggining, like Python and SQL.
 
-- 📚 I'm learning Python, SQL and Power BI.
-- 🖥️ I'm studying Computer Science, on Fiap
+### Skills
+
+- 📚 Python, SQL, MySQL, Power BI, Excel, Git and Github.
+- 🖥️ I am currently in my third semester of Computer Science at Fiap.
 - 📩 My contact: riquelmesmatamoh@gmail.com
 
 
@@ -21,4 +23,5 @@ Nowadays, I started do study Computer Science, on FIAP (Faculdade de Informátic
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=r1qk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
+
 
