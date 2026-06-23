@@ -11,6 +11,12 @@ Nowadays, I started do study Computer Science, on FIAP (Faculdade de Informátic
 - 🖥️ I am currently in my third semester of Computer Science at Fiap.
 - 📩 My contact: riquelmesmatamoh@gmail.com
 
+### Projects 
+- Password Manager: https://github.com/r1qk/Password-Manager 
+- Clima e pontos geográficos: https://github.com/r1qk/clima-pontos-geograficos
+- Projeto interativo Power BI: https://github.com/r1qk/POWER-BI---Projeto-interativo
+- App MVP com react native: https://github.com/r1qk/cp1_react_native/tree/main
+
 
 ### Social Media
 
